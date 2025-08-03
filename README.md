@@ -1,93 +1,68 @@
-## Hi there 👋
-# 👋 Hi, I'm Harini!
+<!-- Dark Neon Styled README -->
 
-_"Code + Curiosity = Growth"_ ✨  
+<h1 align="center">🚀 Hi, I'm Harini!</h1>
 
-I am currently pursuing a **Bachelor's degree in Artificial Intelligence and Data Science** at **Chennai Institute of Technology**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="350"/>
+</p>
 
-I am passionate about emerging technologies and enjoy solving challenging problems through competitive programming, with:
-- **LeetCode Rating:** 1500+
-- **Problems Solved:** 1500+ coding problems across multiple platforms
-
-My technical skills include:
-- **Languages:** C++, C, Python, Java
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js
-- **Backend:** MySQL, Node.js, Express.js
-- **Areas of Interest:** Artificial Intelligence, Data Science, Full Stack Development
-
-I aspire to grow as a developer by combining technical expertise with continuous learning and knowledge sharing.
+<p align="center">
+  <b><i>"Code + Curiosity = Growth"</i></b> ✨
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👩‍💻 About Me
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** at **Chennai Institute of Technology**
+- 💡 Passionate about **emerging technologies & competitive programming**
+- 🏆 **LeetCode Rating:** 1500+ | **Problems Solved:** 1500+
+- ⚡ Focus Areas: **AI · Data Science · Full Stack Development**
+
+---
+
+### 🛠 Tech Stack
+
+#### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+#### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mysql" />
 </p>
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Zoho%20Catalyst-E42527?style=for-the-badge&logo=zoho&logoColor=white" />
+
+#### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,netlify" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho%20Catalyst-E42527?style=for-the-badge&logo=zoho&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Harini744&show_icons=true&theme=neon&hide_border=true&border_radius=20)
 
-![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini744&show_icons=true&theme=radical)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini744&layout=compact&theme=neon&hide_border=true&border_radius=20)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini744&layout=compact&theme=radical)
+  ![Streak](https://streak-stats.demolab.com?user=Harini744&theme=neon&hide_border=true&border_radius=20)
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harini-v-3642b7329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Harini744" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:harinihasi958@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/harini-v-3642b7329/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Harini744" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:harinihasi958@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-_“Strive to learn, build, and share knowledge with the community.”_
-
-
-<!--
-**Harini744/Harini744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=09F7F7&center=true&vCenter=true&width=600&lines=Strive+to+learn%2C+build%2C+and+share+knowledge!" alt="Typing SVG" />
+</p>
